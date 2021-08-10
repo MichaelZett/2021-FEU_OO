@@ -1,0 +1,14 @@
+Schreibe eine Funktion, die rekursiv 10 hoch n berechnet.
+
+
+
+Schreibe eine Schnittstelle "Geraet" mit den Methoden einschalten() und ausschalten().
+Schreibe eine Klasse "Staubsauger", die die Schnittstelle "Geraet" implementiert.
+Schreibe eine abstrakte Klasse "StreamingGeraet", die die Schnittstelle "Geraet" implementiert.
+Schreibe eine Klasse "SmartTv", die von StreamingGeraet ableitet.
+
+!(u && v || w && !x || y && z && !u  || z && v && !y  ||  (x && (y || !(x && z && w) && !(y  ||  z)))&&!(!z && !y  || y&& x && !z))
+
+ 
+
+Für wie viele verschiedene Belegungen der Variablen u, v, w, x, y und z ergibt diese Formel true?
